@@ -1,37 +1,37 @@
 const styles = {
   profileImage: {
-  	borderRadius: '5px'
+    borderRadius: '5px'
   },
   userBadge: {
-  	textAlign: 'center',
+    textAlign: 'center',
     borderRadius: '5px'
   },
   userName: {
-  	display: 'inline'
+    display: 'inline'
   },
   errorMessage: {
-  	color: 'red'
+    color: 'red'
   },
   navBar: {
-  	borderTop: '0px',
+    borderTop: '0px',
     borderBottom: '0px'
   },
   navBarInverse: {
-  	marginBottom: '0px'
+    marginBottom: '0px'
   },
   cardText: {
-  	color: '#586069',
+    color: '#586069',
     textOverflow: 'ellipsis',
     overflow: 'hidden',
   },
   repoHeader: {
-  	padding: '20px'
+    padding: '20px'
   },
   thumbnail: {
-  	height: '300px'
+    height: '300px'
   },
   follows: {
-  	padding: '10px'
+    padding: '10px'
   }
 };
 
