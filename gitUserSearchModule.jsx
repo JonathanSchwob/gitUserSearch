@@ -1,5 +1,5 @@
 const styles = {
-	profileImage: {
+  profileImage: {
   	borderRadius: '5px'
   },
   userBadge: {
